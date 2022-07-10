@@ -1,5 +1,6 @@
 <p align="center">
-<h2 align="center"> 倔强的贝吉塔 </h2>
+<b> 倔强的贝吉塔 </b>
+<!-- <h2 align="center"> 倔强的贝吉塔 </h2> -->
 </p>
 <p align="center">
 <b><a href="https://github.com/StubbornVegeta/wsl_arch_config">My Dotfiles</a></b>
@@ -21,17 +22,20 @@
 
 ### Summary
 <table><tr>
-<td><img src=https://github-readme-stats.vercel.app/api/top-langs/?username=StubbornVegeta&layout=compact&langs_count=5&hide=html,Makefile&theme=dracula ></td>
-<td><img src=https://github-readme-stats.vercel.app/api?username=StubbornVegeta&show_icons=true&hide=issues&theme=dracula "></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StubbornVegeta&layout=compact&langs_count=5&hide=html,Makefile&theme=dracula " ></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=StubbornVegeta&show_icons=true&hide=issues&theme=dracula "></td>
 </tr></table>
 
 ### Configuration
 
-[![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=StubbornVegeta&repo=wsl_arch_config&theme=dracula)](https://github.com/StubbornVegeta/wsl_arch_config)
+<p align="center">
+<table><tr>
+<td> [<img src="https://github-readme-stats.vercel.app/api/pin/?username=StubbornVegeta&repo=wsl_arch_config&theme=dracula">](https://github.com/StubbornVegeta/wsl_arch_config) </td>
+<td> [<img src="https://github-readme-stats.vercel.app/api/pin/?username=StubbornVegeta&repo=nvim&theme=dracula">](https://github.com/StubbornVegeta/nvim) </td>
+<td> [<img src="https://github-readme-stats.vercel.app/api/pin/?username=StubbornVegeta&repo=ranger&theme=dracula">](https://github.com/StubbornVegeta/ranger) </td>
+</tr></table>
 
-[![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=StubbornVegeta&repo=nvim&theme=dracula)](https://github.com/StubbornVegeta/nvim)
-
-[![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=StubbornVegeta&repo=ranger&theme=dracula)](https://github.com/StubbornVegeta/ranger)
+</p>
 
 ### Recently Repositories
 
