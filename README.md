@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **StubbornVegeta/StubbornVegeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Stubborn Vegeta <img src="https://visitor-badge.glitch.me/badge?page_id=StubbornVegeta"/>
+<!-- ### Stubborn Vegeta <img src="https://visitor-badge.glitch.me/badge?page_id=StubbornVegeta"/> -->
 
 <!-- <img src="./StubbornVegeta/github-star.svg" alt="github-star" height="16pt" width="16pt" /> **Repository** -->
 
@@ -41,4 +41,8 @@ Here are some ideas to get you started:
 
 | Languages                                                                                                        | Stats                                                                                       |
 |------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| ![vegeta](https://github-readme-stats.vercel.app/api/top-langs/?username=StubbornVegeta&layout=compact&langs_count=8&hide=html&theme=dracula) | ![vegeta](https://github-readme-stats.vercel.app/api?username=StubbornVegeta&show_icons=true&theme=dracula) |
+| ![vegeta](https://github-readme-stats.vercel.app/api/top-langs/?username=StubbornVegeta&layout=compact&langs_count=5&hide=html,Makefile&theme=dracula) | ![vegeta](https://github-readme-stats.vercel.app/api?username=StubbornVegeta&show_icons=true&theme=dracula) |
+
+### Recently Repositories
+
+[![StartUp](https://github-readme-stats.vercel.app/api/pin/?username=StubbornVegeta&repo=StartUp)](https://github.com/StubbornVegeta/StartUp)
