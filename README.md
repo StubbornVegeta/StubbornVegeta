@@ -30,9 +30,10 @@
 
 <p align="center">
 <table><tr>
-<td> [<img src="https://github-readme-stats.vercel.app/api/pin/?username=StubbornVegeta&repo=wsl_arch_config&theme=dracula">](https://github.com/StubbornVegeta/wsl_arch_config) </td>
-<td> [<img src="https://github-readme-stats.vercel.app/api/pin/?username=StubbornVegeta&repo=nvim&theme=dracula">](https://github.com/StubbornVegeta/nvim) </td>
-<td> [<img src="https://github-readme-stats.vercel.app/api/pin/?username=StubbornVegeta&repo=ranger&theme=dracula">](https://github.com/StubbornVegeta/ranger) </td>
+<td> <a href="https://github.com/StubbornVegeta/wsl_arch_config"><img src="https://github-readme-stats.vercel.app/api/pin/?username=StubbornVegeta&repo=wsl_arch_config&theme=dracula"></a> </td>
+<td> <a href= https://github.com/StubbornVegeta/nvim><img src="https://github-readme-stats.vercel.app/api/pin/?username=StubbornVegeta&repo=nvim&theme=dracula"></a> </td></tr> 
+<tr>
+<td> <a href=https://github.com/StubbornVegeta/ranger><img src="https://github-readme-stats.vercel.app/api/pin/?username=StubbornVegeta&repo=ranger&theme=dracula"></a> </td>
 </tr></table>
 
 </p>
