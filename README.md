@@ -47,6 +47,18 @@ Here are some ideas to get you started:
 <b><a href="https://svegeta.gitee.io/">My Blog</a></b>
 </p>
 
+<p align="center">
+<img src="https://img.shields.io/badge/vimer-%23000000.svg?&style=for-the-badge&logo=vim&logoColor=green"/>
+<img src = "https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<!-- <img src = "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"> -->
+<!-- <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" /> -->
+<!-- <img src="https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/> -->
+<!-- <img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/> -->
+<!-- <img src="https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white"/> -->
+<!-- <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> -->
+</p>
+
 <table><tr>
 <td><img src=https://github-readme-stats.vercel.app/api/top-langs/?username=StubbornVegeta&layout=compact&langs_count=5&hide=html,Makefile&theme=dracula ></td>
 <td><img src=https://github-readme-stats.vercel.app/api?username=StubbornVegeta&show_icons=true&hide=issues&theme=dracula "></td>
