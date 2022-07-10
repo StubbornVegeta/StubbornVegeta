@@ -37,6 +37,15 @@ Here are some ideas to get you started:
 <!-- | [dwm](https://github.com/demonlord1997/dwm)                   | Dwm configures                                 | -->
 <!-- | [i3wm](https://github.com/demonlord1997/i3)                   | I3wm configures                                | -->
 
+<div align="center">
+<img height="150" src="https://avatars.githubusercontent.com/u/41457394?v=4" alt="header" />
+</div>
+
+<p align="center">
+<b><a href="https://github.com/StubbornVegeta/wsl_arch_config">dotfiles</a></b>
+•
+<b><a href="https://svegeta.gitee.io/">My Blog</a></b>
+</p>
 
 <table><tr>
 <td><img src=https://github-readme-stats.vercel.app/api/top-langs/?username=StubbornVegeta&layout=compact&langs_count=5&hide=html,Makefile&theme=dracula ></td>
