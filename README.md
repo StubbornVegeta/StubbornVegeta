@@ -37,10 +37,12 @@ Here are some ideas to get you started:
 <!-- | [dwm](https://github.com/demonlord1997/dwm)                   | Dwm configures                                 | -->
 <!-- | [i3wm](https://github.com/demonlord1997/i3)                   | I3wm configures                                | -->
 
-<div align="center">
-<img height="150" src="https://avatars.githubusercontent.com/u/41457394?v=4" alt="header" />
-</div>
-
+<!-- <div align="center"> -->
+<!-- <img height="150" src="https://avatars.githubusercontent.com/u/41457394?v=4" alt="header" /> -->
+<!-- </div> -->
+<p align="center">
+<h2> 倔强的贝吉塔 </h2>
+</p>
 <p align="center">
 <b><a href="https://github.com/StubbornVegeta/wsl_arch_config">dotfiles</a></b>
 •
@@ -48,7 +50,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/vimer-%23000000.svg?&style=for-the-badge&logo=vim&logoColor=green"/>
+<img src="https://img.shields.io/badge/vimer-gray.svg?&style=for-the-badge&logo=vim&logoColor=lightblue"/>
 <img src = "https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <!-- <img src = "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"> -->
