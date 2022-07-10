@@ -1,5 +1,5 @@
-<p align="center", style="font-size:20px">
-<b> 倔强的贝吉塔 </b>
+<p align="center" >
+<b style="font-size:20px"> 倔强的贝吉塔 </b>
 <!-- <h2 align="center"> 倔强的贝吉塔 </h2> -->
 </p>
 <p align="center">
