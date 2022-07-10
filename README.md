@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ---
 <table><tr>
 <td><img src=https://github-readme-stats.vercel.app/api/top-langs/?username=StubbornVegeta&layout=compact&langs_count=5&hide=html,Makefile&theme=dracula border=0></td>
-<td><img src=https://github-readme-stats.vercel.app/api?username=StubbornVegeta&show_icons=true&theme=dracula border=0></td>
+<td><img src=https://github-readme-stats.vercel.app/api?username=StubbornVegeta&show_icons=true&hide=issues,contribs&theme=dracula border=0></td>
 </tr></table>
 
 <!-- | Languages                                                                                                        | Stats                                                                                       | -->
