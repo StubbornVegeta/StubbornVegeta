@@ -1,6 +1,6 @@
 <p align="center" >
-<b style="color:red;font-size:40px;"> 倔强的贝吉塔 </b>
-<!-- <h2 align="center"> 倔强的贝吉塔 </h2> -->
+<!-- <b> 倔强的贝吉塔 </b> -->
+<h2 align="center"> 倔强的贝吉塔 </h2>
 </p>
 <p align="center">
 <b><a href="https://github.com/StubbornVegeta/wsl_arch_config">My Dotfiles</a></b>
