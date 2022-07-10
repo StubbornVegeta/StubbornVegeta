@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <!-- <img height="150" src="https://avatars.githubusercontent.com/u/41457394?v=4" alt="header" /> -->
 <!-- </div> -->
 <p align="center">
-<h2> 倔强的贝吉塔 </h2>
+<h2 align="center"> 倔强的贝吉塔 </h2>
 </p>
 <p align="center">
 <b><a href="https://github.com/StubbornVegeta/wsl_arch_config">dotfiles</a></b>
