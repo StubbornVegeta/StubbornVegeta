@@ -37,10 +37,9 @@ Here are some ideas to get you started:
 <!-- | [dwm](https://github.com/demonlord1997/dwm)                   | Dwm configures                                 | -->
 <!-- | [i3wm](https://github.com/demonlord1997/i3)                   | I3wm configures                                | -->
 
----
 <table><tr>
-<td><img src=https://github-readme-stats.vercel.app/api/top-langs/?username=StubbornVegeta&layout=compact&langs_count=5&hide=html,Makefile&theme=dracula border=0></td>
-<td><img src=https://github-readme-stats.vercel.app/api?username=StubbornVegeta&show_icons=true&hide=issues,contribs&theme=dracula border=0></td>
+<td><img src=https://github-readme-stats.vercel.app/api/top-langs/?username=StubbornVegeta&layout=compact&langs_count=5&hide=html,Makefile&theme=dracula style="border：none;"></td>
+<td><img src=https://github-readme-stats.vercel.app/api?username=StubbornVegeta&show_icons=true&hide=issues,contribs&theme=dracula style="border：none;"></td>
 </tr></table>
 
 <!-- | Languages                                                                                                        | Stats                                                                                       | -->
@@ -50,3 +49,4 @@ Here are some ideas to get you started:
 ### Recently Repositories
 
 [![StartUp](https://github-readme-stats.vercel.app/api/pin/?username=StubbornVegeta&repo=StartUp&theme=dracula)](https://github.com/StubbornVegeta/StartUp)
+---
