@@ -38,10 +38,14 @@ Here are some ideas to get you started:
 <!-- | [i3wm](https://github.com/demonlord1997/i3)                   | I3wm configures                                | -->
 
 ---
+<table><tr>
+<td><img src=https://github-readme-stats.vercel.app/api/top-langs/?username=StubbornVegeta&layout=compact&langs_count=5&hide=html,Makefile&theme=dracula border=0></td>
+<td><img src=https://github-readme-stats.vercel.app/api?username=StubbornVegeta&show_icons=true&theme=dracula border=0></td>
+</tr></table>
 
-| Languages                                                                                                        | Stats                                                                                       |
-|------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| ![vegeta](https://github-readme-stats.vercel.app/api/top-langs/?username=StubbornVegeta&layout=compact&langs_count=5&hide=html,Makefile&theme=dracula) | ![vegeta](https://github-readme-stats.vercel.app/api?username=StubbornVegeta&show_icons=true&theme=dracula) |
+<!-- | Languages                                                                                                        | Stats                                                                                       | -->
+<!-- |------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------| -->
+<!-- | ![vegeta](https://github-readme-stats.vercel.app/api/top-langs/?username=StubbornVegeta&layout=compact&langs_count=5&hide=html,Makefile&theme=dracula) | ![vegeta](https://github-readme-stats.vercel.app/api?username=StubbornVegeta&show_icons=true&theme=dracula) | -->
 
 ### Recently Repositories
 
