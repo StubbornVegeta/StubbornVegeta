@@ -37,25 +37,12 @@ Here are some ideas to get you started:
 <!-- | [dwm](https://github.com/demonlord1997/dwm)                   | Dwm configures                                 | -->
 <!-- | [i3wm](https://github.com/demonlord1997/i3)                   | I3wm configures                                | -->
 
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 1px solid black;
-}
-blockquote {
-    border-left: solid blue;
-    padding-left: 10px;
-}
-</style>
+
 <table><tr>
 <td><img src=https://github-readme-stats.vercel.app/api/top-langs/?username=StubbornVegeta&layout=compact&langs_count=5&hide=html,Makefile&theme=dracula ></td>
-<td><img src=https://github-readme-stats.vercel.app/api?username=StubbornVegeta&show_icons=true&hide=issues,contribs&theme=dracula "></td>
+<td><img src=https://github-readme-stats.vercel.app/api?username=StubbornVegeta&show_icons=true&hide=issues&theme=dracula "></td>
 </tr></table>
-|                                                                                                         |                                                                                        |
-|------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| ![vegeta](https://github-readme-stats.vercel.app/api/top-langs/?username=StubbornVegeta&layout=compact&langs_count=5&hide=html,Makefile&theme=dracula) | ![vegeta](https://github-readme-stats.vercel.app/api?username=StubbornVegeta&show_icons=true&theme=dracula) |
+
 
 ### Recently Repositories
 
