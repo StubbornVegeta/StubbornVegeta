@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 
 ### Recently Repositories
 
-[![StartUp](https://github-readme-stats.vercel.app/api/pin/?username=StubbornVegeta&repo=StartUp)](https://github.com/StubbornVegeta/StartUp)
+[![StartUp](https://github-readme-stats.vercel.app/api/pin/?username=StubbornVegeta&repo=StartUp&theme=dracula)](https://github.com/StubbornVegeta/StartUp)
