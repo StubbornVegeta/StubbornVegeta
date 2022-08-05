@@ -40,7 +40,6 @@
 
 ### Recently Repositories
 
-[![StartUp](https://github-readme-stats.vercel.app/api/pin/?username=StubbornVegeta&repo=StartUp&theme=dracula)](https://github.com/StubbornVegeta/StartUp)
 <p align="center">
 <table><tr>
 <td> <a href="https://github.com/StubbornVegeta/StartUp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=StubbornVegeta&repo=StartUp&theme=dracula"></a> </td>
@@ -49,4 +48,5 @@
 </table>
 
 </p>
+
 ---
