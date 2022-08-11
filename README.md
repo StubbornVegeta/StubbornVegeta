@@ -22,8 +22,8 @@
 
 ### Summary
 <table><tr>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StubbornVegeta&layout=compact&langs_count=5&hide=html,Makefile&theme=dracula " ></td>
-<td><img src="https://github-readme-stats.vercel.app/api?username=StubbornVegeta&show_icons=true&hide=issues&theme=dracula "></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StubbornVegeta&layout=compact&langs_count=5&hide=html,Makefile&theme=dracula" ></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=StubbornVegeta&show_icons=true&hide=issues&theme=dracula"></td>
 </tr></table>
 
 ### Configuration
