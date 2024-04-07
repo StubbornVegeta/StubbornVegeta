@@ -3,7 +3,7 @@
 <h2 align="center"> 倔强的贝吉塔 </h2>
 </p>
 <p align="center">
-<b><a href="https://github.com/StubbornVegeta/wsl_arch_config">My Dotfiles</a></b>
+<b><a href="https://github.com/StubbornVegeta/.lazyvim">My Neovim Config</a></b>
 •
 <b><a href="https://svegeta.gitee.io/">My Blog</a></b>
 </p>
@@ -29,11 +29,9 @@
 ### Configuration
 
 <p align="center">
-<table><tr>
-<td> <a href="https://github.com/StubbornVegeta/wsl_arch_config"><img src="https://github-readme-stats.vercel.app/api/pin/?username=StubbornVegeta&repo=wsl_arch_config&theme=dracula"></a> </td>
-<td> <a href= https://github.com/StubbornVegeta/nvim><img src="https://github-readme-stats.vercel.app/api/pin/?username=StubbornVegeta&repo=nvim&theme=dracula"></a> </td></tr> 
-<tr>
-<td> <a href=https://github.com/StubbornVegeta/ranger><img src="https://github-readme-stats.vercel.app/api/pin/?username=StubbornVegeta&repo=ranger&theme=dracula"></a> </td>
+<table> <tr>
+<td> <a href="https://github.com/StubbornVegeta/.lazyvim"><img src="https://github-readme-stats.vercel.app/api/pin/?username=StubbornVegeta&repo=.lazyvim&theme=dracula"></a> </td>
+<td> <a href="https://github.com/StubbornVegeta/ranger"><img src="https://github-readme-stats.vercel.app/api/pin/?username=StubbornVegeta&repo=ranger&theme=dracula"></a> </td>
 </tr></table>
 
 </p>
@@ -43,8 +41,10 @@
 <p align="center">
 <table><tr>
 <td> <a href="https://github.com/StubbornVegeta/StartUp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=StubbornVegeta&repo=StartUp&theme=dracula"></a> </td>
-<td> <a href= https://github.com/StubbornVegeta/FloatRun><img src="https://github-readme-stats.vercel.app/api/pin/?username=StubbornVegeta&repo=FloatRun&theme=dracula"></a> </td></tr> 
-
+<td> <a href="https://github.com/StubbornVegeta/FloatRun"><img src="https://github-readme-stats.vercel.app/api/pin/?username=StubbornVegeta&repo=FloatRun&theme=dracula"></a> </td></tr> 
+<tr>
+<td> <a href="https://github.com/StubbornVegeta/DeepStream"><img src="https://github-readme-stats.vercel.app/api/pin/?username=StubbornVegeta&repo=DeepStream&theme=dracula"></a> </td>
+<td> <a href="https://github.com/StubbornVegeta/markdown-org"><img src="https://github-readme-stats.vercel.app/api/pin/?username=StubbornVegeta&repo=markdown-org&theme=dracula"></a> </td>
 </table>
 
 </p>
